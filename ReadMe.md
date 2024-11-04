@@ -1,27 +1,49 @@
-# 💫 About Me:
-Hi there! 👋 I'm Amar Jondhalekar<br><br>I'm a Full Stack Web Developer with over 3 years of hands-on experience in developing, enhancing, and delivering scalable web applications using modern technologies like JavaScript, TypeScript, React.js, Node.js, MongoDB, and more.<br><br>I am passionate about solving complex problems and building innovative solutions. As the Founder & CEO of Campuslight, I have experience in strategic thinking, team management, and problem-solving, all while focusing on creating impactful solutions in the education industry.<br><br>👨‍💻 What I Do:<br>- Build responsive, high-performance web applications using React.js, Node.js, and other modern frameworks.<br>- Work with technologies like Docker, Nginx, and CI/CD pipelines to ensure seamless integration and deployment.<br>- Create SEO-friendly websites and digital content.<br>- Lead teams and mentor junior developers in best practices for web development.<br><br>🔧 My Tech Stack:<br>- Languages: JavaScript, TypeScript, ECMAScript (ES6+)<br>- Frontend: React.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap 5<br>- Backend: Node.js, Express.js, MongoDB, REST APIs, Microservices<br>- DevOps: Docker, Nginx, CI/CD with GitHub<br><br>🏆 Certifications and Achievements:<br>- Full Stack Web Development Certification from Coder's Gyan<br>- Team Leader Award from Campuslight (2023)<br>- Google Digital Unlocked Certification<br>- Internshala Student Partner Captain for Internshala<br><br>🌱 What I'm Learning:<br>I'm currently diving deeper into **Advanced JavaScript Concepts** and enhancing my skills in **Data Structures and Algorithms** to prepare for interviews at top product-based companies like Google and Amazon.<br><br>📬 Connect with Me:<br>- LinkedIn: [Amar Jondhalekar](https://www.linkedin.com/in/amarjondhalekar221297)<br>- Twitter: [@AmarJondhaleka1](https://twitter.com/AmarJondhaleka1)<br>- Email: amarjondhalekar221297@gmail.com<br><br>
+<h1 align="center">Hi 👋, I'm Amar Jondhalekar</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-jondhalekar&label=Profile%20views&color=0e75b6&style=flat" alt="amar-jondhalekar" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amar-jondhalekar-9268b7208/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Amar-Jondhalekar) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-jondhalekar" alt="amar-jondhalekar" /></a> </p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amar-jondhalekar&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amar-jondhalekar&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-jondhalekar&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on [Pizza Delivery App](https://github.com/stars/amar-jondhalekar/lists/pizza-delivery-app)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amar-jondhalekar&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+- 🌱 I’m currently learning **advanced React.js concepts, building projects with Redux Toolkit, exploring various libraries, studying the MERN stack through Coder's Gyan, and writing technical blogs on HashNode.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+- 👯 I’m looking to collaborate on **projects that involve HTML5, CSS3, Bootstrap5, JavaScript, React, and Node.js.**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amar-jondhalekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🤝 I’m looking for help with **advanced JavaScript concepts and for Front-End interview preparation**
 
----
-[![](https://visitcount.itsvg.in/api?id=amar-jondhalekar&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [https://github.com/amar-jondhalekar?tab=repositories](https://github.com/amar-jondhalekar?tab=repositories)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📝 I regularly write articles on [https://coffeewithamar.hashnode.dev/](https://coffeewithamar.hashnode.dev/)
+
+- 💬 Ask me about **JavaScript, React, Redux, HTML5, CSS3, Bootstrap 5, Tailwind CSS, Docker, firebase, SEO, Blogging, Technical Writing**
+
+- 📫 How to reach me **amarjondhalekar221297@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1tFgVKMcjql_gr4aGsv1DkpjOFKCOH7-E5Xzzw97nlZk/edit?usp=sharing](https://docs.google.com/document/d/1tFgVKMcjql_gr4aGsv1DkpjOFKCOH7-E5Xzzw97nlZk/edit?usp=sharing)
+
+- ⚡ Fun fact **I love guiding students and have mentored over 5000+ aspiring students and 200+ kids..**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/amar-jondhalekar-9268b7208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amar-jondhalekar-9268b7208/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/p/github/amar-jondhalekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/p/github/amar-jondhalekar/" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@amarjondhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@amarjondhalekar" height="30" width="40" /></a>
+<a href="https://medium.com/@amarjondhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarjondhalekar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amar_jondhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amar_jondhalekar" height="30" width="40" /></a>
+<a href="/https://amarjondhalekar.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amarjondhalekar.blogspot.com/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-jondhalekar&show_icons=true&locale=en&layout=compact" alt="amar-jondhalekar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-jondhalekar&show_icons=true&locale=en" alt="amar-jondhalekar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-jondhalekar&" alt="amar-jondhalekar" /></p>
