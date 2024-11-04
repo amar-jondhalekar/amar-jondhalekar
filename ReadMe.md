@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amarjondhalekar221297@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tFgVKMcjql_gr4aGsv1DkpjOFKCOH7-E5Xzzw97nlZk/edit?usp=sharing](https://docs.google.com/document/d/1tFgVKMcjql_gr4aGsv1DkpjOFKCOH7-E5Xzzw97nlZk/edit?usp=sharing)
+- 📄 Know about my experiences [http://tiny.cc/pmktzz](http://tiny.cc/pmktzz)
 
 - ⚡ Fun fact **I love guiding students and have mentored over 5000+ aspiring students and 200+ kids..**
 
