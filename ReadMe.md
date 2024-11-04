@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amar Jondhalekar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-jondhalekar&label=Profile%20views&color=0e75b6&style=flat" alt="amar-jondhalekar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-jondhalekar" alt="amar-jondhalekar" /></a> </p>
-
 - 🔭 I’m currently working on [Pizza Delivery App](https://github.com/stars/amar-jondhalekar/lists/pizza-delivery-app)
 
 - 🌱 I’m currently learning **advanced React.js concepts, building projects with Redux Toolkit, exploring various libraries, studying the MERN stack through Coder's Gyan, and writing technical blogs on HashNode.**
@@ -47,3 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-jondhalekar&show_icons=true&locale=en" alt="amar-jondhalekar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-jondhalekar&" alt="amar-jondhalekar" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-jondhalekar&label=Profile%20views&color=0e75b6&style=flat" alt="amar-jondhalekar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-jondhalekar" alt="amar-jondhalekar" /></a> </p>
