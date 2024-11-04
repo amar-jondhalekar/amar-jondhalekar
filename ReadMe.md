@@ -32,7 +32,7 @@
 <a href="https://hashnode.com/@amarjondhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@amarjondhalekar" height="30" width="40" /></a>
 <a href="https://medium.com/@amarjondhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarjondhalekar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/amar_jondhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amar_jondhalekar" height="30" width="40" /></a>
-<a href="/https://amarjondhalekar.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amarjondhalekar.blogspot.com/" height="30" width="40" /></a>
+<a href="https://amarjondhalekar.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amarjondhalekar.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
