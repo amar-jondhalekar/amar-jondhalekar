@@ -92,6 +92,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-jondhalekar" alt="amar-jondhalekar" /></a> </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amar-jondhalekar&bg_color=ffcfe9&color=000000&line=9e9e9e&point=0d7d20&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ```
                                                           _                 _ _           _      _              
                            __ _ _ __ ___   __ _ _ __     (_) ___  _ __   __| | |__   __ _| | ___| | ____ _ _ __ 
