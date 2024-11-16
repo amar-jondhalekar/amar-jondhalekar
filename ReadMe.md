@@ -1,108 +1,94 @@
 <h1 align="center">Hi 👋, I'm Amar Jondhalekar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
-<!-- About Section -->
-<p align="center"> 
-  🔭 I’m currently working on **Pizza Delivery App**  
-  🌱 I’m learning **advanced React.js concepts**, **Redux Toolkit**, **Node.js**, and **exploring MERN stack**  
-  👯 I’m looking to collaborate on **React, Node.js, HTML5, CSS3, and JavaScript**  
-  🤝 I’m seeking help with **advanced JavaScript concepts**  
-</p>
-
-<!-- Social Links Section -->
 <p align="center">
-  📫 How to reach me: 
-  <a href="mailto:amarjondhalekar221297@gmail.com">amarjondhalekar221297@gmail.com</a> | 
-  <a href="https://twitter.com/AmarJondhaleka1" target="_blank">Twitter</a> | 
-  <a href="https://www.linkedin.com/in/amar-jondhalekar/" target="_blank">LinkedIn</a> | 
-  <a href="https://github.com/AmarJondhalekar" target="_blank">GitHub</a>
+  <img src="https://img.shields.io/badge/Tech-HTML5-E34F26?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Tech-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Tech-React%20JS-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Tech-Redux-764ABC?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/Tech-Node.js-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Tech-TypeScript-3178C6?style=flat-square&logo=typescript" />
 </p>
 
-<!-- Recent Projects Section -->
-<h3 align="center">Recent Projects</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Pizza Delivery App</h4>
-    <p style="text-align: center; color: #555;">A full-stack pizza delivery app built using React, Redux, and Node.js.</p>
-  </div>
+- 🔭 I’m currently working on [Pizza Delivery App](https://github.com/stars/amar-jondhalekar/lists/pizza-delivery-app)
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">GitHub Follower</h4>
-    <p style="text-align: center; color: #555;">A project to track GitHub followers, built with React and Node.js.</p>
-  </div>
+- 🌱 I’m currently learning **advanced React.js concepts, building projects with Redux Toolkit, exploring various libraries, studying the MERN stack through Coder's Gyan, and writing technical blogs on HashNode.**
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Campuslight</h4>
-    <p style="text-align: center; color: #555;">A platform offering educational services, built with MERN stack.</p>
-  </div>
+- 👯 I’m looking to collaborate on **projects that involve HTML5, CSS3, Bootstrap5, JavaScript, React, and Node.js.**
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Paste App</h4>
-    <p style="text-align: center; color: #555;">A clipboard manager app to store and manage multiple texts.</p>
-  </div>
+- 🤝 I’m looking for help with **advanced JavaScript concepts and for Front-End interview preparation**
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Dictionary App</h4>
-    <p style="text-align: center; color: #555;">A dictionary app to search for word meanings and synonyms using an API.</p>
-  </div>
+- 👨‍💻 All of my projects are available at [https://github.com/amar-jondhalekar?tab=repositories](https://github.com/amar-jondhalekar?tab=repositories)
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">KidsCode Language</h4>
-    <p style="text-align: center; color: #555;">A language learning platform for kids with interactive lessons.</p>
-  </div>
+- 📝 I regularly write articles on [https://coffeewithamar.hashnode.dev/](https://coffeewithamar.hashnode.dev/)
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">E-commerce</h4>
-    <p style="text-align: center; color: #555;">A full-fledged e-commerce site with payment gateway integration.</p>
-  </div>
+- 💬 Ask me about **JavaScript, React, Redux, HTML5, CSS3, Bootstrap 5, Tailwind CSS, Docker, firebase, SEO, Blogging, Technical Writing**
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">AI Resume Builder</h4>
-    <p style="text-align: center; color: #555;">An AI-based tool to generate resumes based on user input.</p>
-  </div>
+- 📫 How to reach me **amarjondhalekar221297@gmail.com**
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">AI Content Generator</h4>
-    <p style="text-align: center; color: #555;">A content generator using AI to create blog posts and articles.</p>
-  </div>
+- 📄 Know about my experiences [http://tiny.cc/amarjondhalekarresume](http://tiny.cc/amarjondhalekarresume)
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Football API</h4>
-    <p style="text-align: center; color: #555;">A sports app using an API to get live football data.</p>
-  </div>
+- ⚡ Fun fact **I love guiding students and have mentored over 5000+ aspiring students and 200+ kids..**
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Website Analyzer Tool</h4>
-    <p style="text-align: center; color: #555;">A tool to analyze website performance and SEO score.</p>
-  </div>
+### Blog Posts
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Playtube Video Streaming App</h4>
-    <p style="text-align: center; color: #555;">A video streaming platform with features like playlists and video search.</p>
-  </div>
+<p align="center">
+  <a href="https://amarjondhalekar.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-BillionDay%20Blog-FF5722?style=flat-square" alt="BillionDay Blog" />
+  </a>
+  <a href="https://www.campuslight.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Campuslight%20Blog-4CAF50?style=flat-square" alt="Campuslight Blog" />
+  </a>
+  <a href="https://coffeewithamar.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Hacshnode%20Blog-00B8D9?style=flat-square" alt="Hashnode Blog" />
+  </a>
+</p>
 
-  <div style="background: #f0f0f0; padding: 20px; width: 250px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
-    <h4 style="text-align: center; color: #333;">Social Book</h4>
-    <p style="text-align: center; color: #555;">A social networking app with user profiles, posts, and messaging features.</p>
-  </div>
 
-  <!-- Add more project cards as needed -->
-</div>
+## Connect with me:
 
-<!-- Skills Section -->
-<h3 align="center">Skills</h3>
-<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://img.shields.io/badge/HTML5-Orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amar-jondhalekar-9268b7208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+  </a>  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://codesandbox.io/p/github/amar-jondhalekar/">
+    <img src="https://img.shields.io/badge/CodeSandbox-F7DF1E?style=for-the-badge&logo=codesandbox&logoColor=black&labelColor=F7DF1E&color=F7DF1E" alt="CodeSandbox" />
+  </a>  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://hashnode.com/@amarjondhalekar">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF&color=2962FF" alt="Hashnode" />
+  </a>  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://medium.com/@amarjondhalekar">
+    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=00AB6C&color=00AB6C" alt="Medium" />
+  </a>  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/amar_jondhalekar">
+    <img src="https://img.shields.io/badge/HackerRank-2E2E2E?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2E2E2E&color=2E2E2E" alt="HackerRank" />
+  </a>  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://amarjondhalekar.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-F5B7B1?style=for-the-badge&logo=rss&logoColor=white&labelColor=F5B7B1&color=F5B7B1" alt="Blog" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-jondhalekar&show_icons=true&locale=en&layout=compact" alt="amar-jondhalekar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-jondhalekar&show_icons=true&locale=en" alt="amar-jondhalekar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-jondhalekar&" alt="amar-jondhalekar" /></p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-jondhalekar&label=Profile%20views&color=0e75b6&style=flat" alt="amar-jondhalekar" /> </p>-->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-jondhalekar" alt="amar-jondhalekar" /></a> </p>
