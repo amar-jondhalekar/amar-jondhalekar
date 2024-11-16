@@ -51,23 +51,22 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amar-jondhalekar-9268b7208/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
-  </a>  &nbsp;&nbsp;&nbsp;
+  </a> 
 
   <a href="https://codesandbox.io/p/github/amar-jondhalekar/">
     <img src="https://img.shields.io/badge/CodeSandbox-F7DF1E?style=for-the-badge&logo=codesandbox&logoColor=black&labelColor=F7DF1E&color=F7DF1E" alt="CodeSandbox" />
-  </a>  &nbsp;&nbsp;&nbsp;
+  </a>  
 
   <a href="https://hashnode.com/@amarjondhalekar">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF&color=2962FF" alt="Hashnode" />
-  </a>  &nbsp;&nbsp;&nbsp;
+  </a>  
 
   <a href="https://medium.com/@amarjondhalekar">
     <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=00AB6C&color=00AB6C" alt="Medium" />
-  </a>  &nbsp;&nbsp;&nbsp;
-
+  </a>  
   <a href="https://www.hackerrank.com/profile/amar_jondhalekar">
     <img src="https://img.shields.io/badge/HackerRank-2E2E2E?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2E2E2E&color=2E2E2E" alt="HackerRank" />
-  </a>  &nbsp;&nbsp;&nbsp;
+<!--   </a>  &nbsp;&nbsp;&nbsp; -->
 
   <a href="https://amarjondhalekar.blogspot.com/">
     <img src="https://img.shields.io/badge/Blog-F5B7B1?style=for-the-badge&logo=rss&logoColor=white&labelColor=F5B7B1&color=F5B7B1" alt="Blog" />
